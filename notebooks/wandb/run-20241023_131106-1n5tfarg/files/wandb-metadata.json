@@ -1,0 +1,32 @@
+{
+    "os": "Linux-6.4.16-linuxkit-x86_64-with-glibc2.35",
+    "python": "3.11.0rc1",
+    "heartbeatAt": "2024-10-23T13:11:07.280651",
+    "startedAt": "2024-10-23T13:11:06.105047",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "home/jovyan/work/notebooks/36120_Lab7_Ex2_Solutions.ipynb",
+    "codePathLocal": null,
+    "root": "/tf/home/jovyan/work",
+    "git": {
+        "remote": "git@github.com:reasmey-tith/adv_mla_lab_7.git",
+        "commit": "5322b2e241a4a20f6dac8c23a2a3234476200e44"
+    },
+    "email": null,
+    "host": "251e4d55ff6d",
+    "username": "root",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 9,
+    "cpu_count_logical": 9,
+    "disk": {
+        "/": {
+            "total": 58.367008209228516,
+            "used": 41.93951416015625
+        }
+    },
+    "memory": {
+        "total": 7.7648468017578125
+    }
+}

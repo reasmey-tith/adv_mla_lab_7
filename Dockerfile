@@ -6,4 +6,4 @@ RUN pip install -r requirements.txt
 
 ENV PYTHONPATH "${PYTHONPATH}:/tf/notebooks"
 
-WORKDIR /tf/notebooks
+WORKDIR tf/home/jovyan/work/

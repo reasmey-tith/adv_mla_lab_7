@@ -1,0 +1,1 @@
+{"columns": ["Predicted", "Actual", "Count"], "data": [["no_churn", "no_churn", 1365], ["no_churn", "churn", 222], ["churn", "no_churn", 367], ["churn", "churn", 46]]}
