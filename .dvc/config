@@ -1,5 +1,7 @@
 [core]
-    remote = drive
+    remote = my_data
 ['remote "drive"']
     url = gdrive://1MDS0__MSI0nylf9dssgD37SKqxr3rydT
     gdrive_acknowledge_abuse = true
+['remote "my_data"']
+    url = /Users/reasmeytith/Desktop/Projects/adv_mla_2024/tmp/dvc_store
