@@ -1,0 +1,4 @@
+scikit-learn==1.5.1
+pandas==2.2.2
+tensorflow-recommenders==0.7.3
+wandb==0.17.4
